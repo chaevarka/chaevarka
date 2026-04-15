@@ -1,4 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap');
+
+html {
+    scroll-behavior: smooth;
+}
+
 :root {
     --accent-color: #FADB74;
     --dark-bg: #363636;
